@@ -10,3 +10,6 @@ The project is inspired by the BigBasket e-commerce platform.
 
 ## Tools Used
 - Figma
+## Preview
+
+![Home Page](image 1.png)
